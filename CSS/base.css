@@ -1,0 +1,18 @@
+/* GLOBAL RESET 
+ This resets the default browser settings and replaces with mine 
+so everything can function properly
+*/
+*::before, 
+*::after { 
+box-sizing: border-box;
+margin:0px;
+padding:0px;
+}
+
+/* GLOBAL Default Theme colours */
+:root{ 
+color-background
+
+}
+
+
