@@ -1,0 +1,12 @@
+{
+  "type": "msedge",
+  "request": "attach",
+  "name": "Attach to Edge",
+  "port": 9222,
+  "urlFilter": "http://localhost:3000/*",
+  "webRoot": "${workspaceFolder}",
+  "configurations": [
+  
+  ],
+  
+}   
